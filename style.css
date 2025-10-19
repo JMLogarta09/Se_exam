@@ -1,10 +1,14 @@
 body {
-<<<<<<< HEAD
-    background-color: red;
-=======
     background-color: blue;
->>>>>>> website
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 20px;
+}
+h1 {
+    color: white;
+    text-align: center;
+}
+p {
+    color: lightgray;
+    text-align: center;
 }
